@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **CRUBN (Trential)**
 
-- 🌱 I’m currently working with  **NodeJS and TypeScript**
+- 🌱 I’m currently using **NodeJS and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prathamJadhav/prathamJadhav)
 
